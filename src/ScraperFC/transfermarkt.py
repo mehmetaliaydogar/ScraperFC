@@ -29,7 +29,29 @@ comps = {
     'Russian Premier League': 'https://www.transfermarkt.us/premier-liga/startseite/wettbewerb/RU1',
     'Brasileirao': 'https://www.transfermarkt.us/campeonato-brasileiro-serie-a/startseite/wettbewerb/BRA1',  # noqa: E501
     'Argentina Liga Profesional': 'https://www.transfermarkt.us/superliga/startseite/wettbewerb/AR1N',  # noqa: E501
-    'MLS': 'https://www.transfermarkt.us/major-league-soccer/startseite/wettbewerb/MLS1'
+    'MLS': 'https://www.transfermarkt.us/major-league-soccer/startseite/wettbewerb/MLS1',
+    'CSL': 'https://www.transfermarkt.us/chinese-super-league/startseite/wettbewerb/CSL',
+    'AUS1': 'https://www.transfermarkt.us/a-league/startseite/wettbewerb/AUS1',
+    'RSK1': 'https://www.transfermarkt.us/league/startseite/wettbewerb/RSK1',
+    'JAP1': 'https://www.transfermarkt.us/j1-league/startseite/wettbewerb/JAP1',
+    'NZL1': 'https://www.transfermarkt.us/new-zealand-premiership-2021-/startseite/wettbewerb/NZL1',
+    'SA1': 'https://www.transfermarkt.us/saudi-pro-league/startseite/wettbewerb/SA1',
+    'QSL': 'https://www.transfermarkt.us/qatar-stars-league/startseite/wettbewerb/QSL',
+    'UEA1': 'https://www.transfermarkt.us/uae-pro-league/startseite/wettbewerb/UAE1',
+    'IRN1': 'https://www.transfermarkt.us/persian-gulf-pro-league/startseite/wettbewerb/IRN1',
+    'UZ1': 'https://www.transfermarkt.us/ozbekiston-superligasi/startseite/wettbewerb/UZ1',
+    'THA1': 'https://www.transfermarkt.us/thai-league/startseite/wettbewerb/THA1',
+    'SFA1': 'https://www.transfermarkt.us/betway-premiership/startseite/wettbewerb/SFA1',
+    'EGY1': 'https://www.transfermarkt.us/egyptian-premier-league/startseite/wettbewerb/EGY1',
+    'MAR1': 'https://www.transfermarkt.us/botola-pro-inwi/startseite/wettbewerb/MAR1',
+    'ALG1': 'https://www.transfermarkt.us/ligue-professionnelle-1/startseite/wettbewerb/ALG1',
+    'TUN1': 'https://www.transfermarkt.us/ligue-professionnelle-1/startseite/wettbewerb/TUN1',
+    'MEXA': 'https://www.transfermarkt.us/liga-mx-apertura/startseite/wettbewerb/MEXA',
+    'COLP': 'https://www.transfermarkt.us/liga-dimayor-apertura/startseite/wettbewerb/COLP',
+    'CLPD': 'https://www.transfermarkt.us/primera-division-de-chile/startseite/wettbewerb/CLPD',
+    'URU1': 'https://www.transfermarkt.us/primera-division-apertura/startseite/wettbewerb/URU1',
+    'EL1A': 'https://www.transfermarkt.us/ligapro-serie-a-primera-etapa/startseite/wettbewerb/EL1A'
+    
 }
 
 
